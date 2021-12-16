@@ -1,0 +1,25 @@
+Why use one or another?
+
+Web Components
+> Isolation of tech, deployment
+> Performance
+< More manual setup
+
+https://medium.com/swlh/micro-frontend-using-web-components-e9faacfc101b
+
+
+iFrames
+> Isolation of tech, deployment, runtime
+> Better cache management 
+< Performance
+< Code reuse
+
+https://medium.com/@m.biomee/micro-fronends-spotify-approach-iframes-part-2-bb15c14449bf
+
+
+Single-SPA library
+> Developed for Micro front-ends purpose
+< Boilerplate code
+< Learning curve?
+
+https://blog.bitsrc.io/building-microfrontends-using-single-spa-framework-94019ca2fb4d
