@@ -1,3 +1,4 @@
+DataSourceInfo([@iets], DataSourceInfo.DisplayName, "naam")
 Notify("tekstje", Succes/Error)
 IsBlank() // check op value Blank (null)
 "" is niet Blank
