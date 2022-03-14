@@ -1,0 +1,33 @@
+Notify("tekstje", Succes/Error)
+IsBlank() // check op value Blank (null)
+"" is niet Blank
+IsEmpty() // check op geen records in Table
+Filter(dataset, conditie);
+Search(dataset, zoekstr, kolom1[, kolom2]);		// Gaat niet goed om met numerieke kolommen
+First(dataset)
+Concat(tabel, formule, scheidingsteken) // voor tabel->string;
+Defaults(dataset);
+Patch(dataset, {});
+Update(dataset, rij, { kolom1: "", kolom2: ""});
+Set(var, waarde);
+UpdateContext({var: waarde});
+Refresh(dataset)
+Collect(var, waarde);
+ClearCollect(var);
+Navigate(scherm);
+Select(); /* doet alsof men klikt op het opgegeven element (onSelect) */
+SortByColumns( Tabel, NaamKolom1 [, Sorteervolgorde1, NaamKolom2, Sorteervolgorde2, ... ] )
+Launch() /* Open browsersite, werkt soms niet goed in editModus */
+Trace() /* Log info naar debugger zoals Application Insights in Azure */
+Table() /* maken van een tabel datatype, middels meegegeven object met keys en values { "merk": "BMW", "type": "2002 Turbo" } 
+	   bijv. te gebruiken in 'Items' property van Tabs of Gallery's
+	*/
+
+
+If( IsType( ThisItem.'Company Name', Accounts ),
+    AsType( ThisItem.'Company Name', Accounts ).'Account Name',
+    AsType( ThisItem.'Company Name', Contacts ).'Full Name'
+)
+
+Dus IsType om te controleren of een item een bepaald tabel type heeft
+Dus AsType om een bepaald type te casten naar een ander tabel type
