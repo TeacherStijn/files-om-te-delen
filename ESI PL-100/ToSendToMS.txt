@@ -1,0 +1,33 @@
+https://www.linkedin.com/in/stijnjanssen83/
+
+https://github.com/TeacherStijn
+
+https://docs.microsoft.com/en-us/power-platform/power-fx/formula-reference
+
+•https://docs.microsoft.com/en-us/power-platform-release-plan/2022wave2/
+Microsoft Power Platform 2022 release wave 2 plan overview
+The 2022 release wave 2 plan describes the Microsoft Power Platform features that are planned for release between October 2022 and March 2023.
+
+https://www.kaggle.com/datasets
+
+https://github.com/TeacherStijn?tab=repositories
+
+https://admin.powerplatform.microsoft.com/
+
+https://github.com/MicrosoftLearning/PL-100-Microsoft-Power-Platform-App-Maker/tree/master/Instructions/Labs/02-1/Completed
+
+https://docs.microsoft.com/en-us/certifications/exams/pl-100
+
+https://docs.microsoft.com/en-us/power-apps/maker/data-platform/configure-workflow-steps#setting-conditions-for-real-time-workflow-actions
+
+https://docs.microsoft.com/en-us/power-platform/admin/security-roles-privileges
+
+https://docs.microsoft.com/en-us/power-platform/admin/database-security#predefined-security-roles
+
+https://docs.microsoft.com/en-us/power-apps/maker/data-platform/create-solution#solution-publisher
+
+https://docs.microsoft.com/en-us/dynamics365/customerengagement/on-premises/customize/change-solution-publisher-prefix?view=op-9-1
+
+https://docs.microsoft.com/en-us/power-platform/power-fx/reference/function-filter-lookup
+
+https://github.com/TeacherStijn/public-apis
